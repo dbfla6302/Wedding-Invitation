@@ -1,0 +1,11 @@
+.container {
+  font-weight: bold;
+  text-align: center;
+}
+.container .txt-date {
+  font-size: 30px;
+  margin-bottom: 8px;
+}
+.container .txt-day {
+  font-size: 17px;
+}/*# sourceMappingURL=Heading.module.css.map */

@@ -44,3 +44,9 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## 강의 들으면서 오류사항 정리!!
+
+- pnp 사용하고 싶었으나 버전 차이 문제인지 pnp 사용이 어려워 결국 node_modules 로 옵션 변경 후 install로 다시 설치
+  그렇게 했더니 prettier 오류 해결
+- lint:fix 로 모두 변경 원하였으나 해당 부분도 버전 차이로 인해 eslint를 삭제 후 아래 버전으로 재설치 하였더니 사용가능
