@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Wedding-Invitation/static/css/main.d8ee4e09.css",
+    "main.js": "/Wedding-Invitation/static/js/main.6a5a5a7c.js",
+    "static/js/453.92fbc60f.chunk.js": "/Wedding-Invitation/static/js/453.92fbc60f.chunk.js",
+    "static/media/subset-NanumGeumEunBoHwa.ttf": "/Wedding-Invitation/static/media/subset-NanumGeumEunBoHwa.b403b69adf4218544a6d.ttf",
+    "static/media/subset-NanumGeumEunBoHwa.woff": "/Wedding-Invitation/static/media/subset-NanumGeumEunBoHwa.e46b142f5f7ac712bc68.woff",
+    "static/media/subset-NanumGeumEunBoHwa.woff2": "/Wedding-Invitation/static/media/subset-NanumGeumEunBoHwa.847f66e170f56b632c8d.woff2",
+    "index.html": "/Wedding-Invitation/index.html",
+    "main.d8ee4e09.css.map": "/Wedding-Invitation/static/css/main.d8ee4e09.css.map",
+    "main.6a5a5a7c.js.map": "/Wedding-Invitation/static/js/main.6a5a5a7c.js.map",
+    "453.92fbc60f.chunk.js.map": "/Wedding-Invitation/static/js/453.92fbc60f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8ee4e09.css",
+    "static/js/main.6a5a5a7c.js"
+  ]
+}
